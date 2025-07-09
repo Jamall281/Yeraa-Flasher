@@ -1,6 +1,5 @@
 # Yeraa-Flasher
 REPAIR SOFTWARE
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -42,7 +41,7 @@ REPAIR SOFTWARE
   </section>
 
   <section id="contact">
-    <h2>Kontak</h2>
+    <h2>Kontak</h2> 085172382581
     <p>Hubungi kami via WhatsApp: <a href="https://wa.me/628xxxxxxx">+62 8xxx xxx xxx</a></p>
     <p>Email: yeraaflasher@example.com</p>
   </section>
